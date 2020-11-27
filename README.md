@@ -1,4 +1,4 @@
-# awaysaway_-
+# learn to spider
 爬虫的学习和案例
 ## requests模块
 - python中原生的一款基于网络请求的模块，功能非常强大，简单便捷，效率极高。
